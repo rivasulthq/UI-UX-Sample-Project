@@ -287,7 +287,7 @@ Mobile App only
 18yrs - 60yrs (Female & Male)
 
 #### References
-Please conduct some research on other fintech apps, our aim is to be better than them.
+Please conduct some research on other e-learning apps, our aim is to be better than them.
 
 #### Deliverables
 * Research Results
