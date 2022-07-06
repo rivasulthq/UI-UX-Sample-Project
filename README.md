@@ -24,6 +24,11 @@ These simple Design task is just to warm you up ahead of the projects, you can u
 * Design an eCommerce checkout page
 * Re-Design a NaijaTechGuide Landing page
 
+## Table of Conents
+* [Beginner's Project](#beginners-project)
+* [Intermediate Project](#intermediate-project)
+* [Advance Project](#advance-project)
+
 ## Beginner's Project
 ### Client Brief: #1 Crypto Blog Design
 Client Name: BitNews
