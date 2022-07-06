@@ -26,14 +26,14 @@ These simple Design task is just to warm you up ahead of the projects, you can u
 
 ## Beginner's Project
 ### Client Brief: #1 Blog Design
-<b>Client Name:</b> BitNews<br/>
-<b>Tyography:</b> Use anyone you like<br/>
-<b>Color:</b> Use anyone you like<br/>
-<br/><br/>
-<b>Timeline</b>
+Client Name: BitNews
+Tyography: Use anyone you like
+Color: Use anyone you like
+
+#### Timeline
 2 Weeks
-<br/>
-<b>Objectives</b>
+
+#### Objectives
 A Unique Design for the Blog that can;
 * Most Read This week on Homepage
 * Latest Articles on Homepage
@@ -45,5 +45,6 @@ A Unique Design for the Blog that can;
 * Easy readility function for users
 * Search bar section to search for content
 * Feature to help users with reading problem
-
+#### Platform
+Please design for responsive web. So we require desktop screens as well as mobile screens.
 
