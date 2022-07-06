@@ -1,28 +1,49 @@
 
-# Sample Projects for your Portfolio
-Hi, these is a list of sample projects you can work on and add to your portfolio. The sample projects can be used to win jobs from potential clients
+# Projects to Build Portfolio
+List of Sample Projects to Help Build your portfolio. From Beginner to Advance Level.
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+* New to Product Design? [Get Aceess to Design Course](https://selar.co/product-design)
+* Join Our Design Community & Share Designs [Click to Join](https://t.me/designgeng)
+
+All Projects mentioned below comes with important information to help you design something unique.
+
+These simple Design task is just to warm you up ahead of the projects, you can upload your designs to Dribbble and Behance.
+
+### Simple UX Design Task
+* Conduct a User Survey
+* Create a Simple User Persona
+* Create an Information Architecture
+* Create a Sketch of an educational Website
+* Create a Low Fedility Wireframe for a Shopping app
+
+### Simple UI Design Task
+* Design a Login Page UI for Mobile
+* Design a Landing Page UI
+* Design a Contact Us Page
+* Design a High Fedility wireframe for a Shopping app
+* Design an eCommerce checkout page
+* Re-Design a NaijaTechGuide Landing page
+
+## Beginner's Project
+### Client Brief: #1 Blog Design
+<b>Client Name:</b> BitNews
+<b>Tyography:</b> Use anyone you like
+<b>Color:</b> Use anyone you like
+
+<b>Timeline</b>
+2 Weeks
+
+<b>Objectives</b>
+A Unique Design for the Blog that can;
+* Most Read This week on Homepage
+* Latest Articles on Homepage
+* A Sidebar either Left or Right
+* Newsletter subscription enabled
+* Quick Navigations to Categories
+* Social share button for articles
+* Page to Read article
+* Easy readility function for users
+* Search bar section to search for content
+* Feature to help users with reading problem
 
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/rivasulthq/UI-UX-Sample-Project/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/rivasulthq/UI-UX-Sample-Project/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/rivasulthq/UI-UX-Sample-Project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/rivasulthq/UI-UX-Sample-Project/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/rivasulthq/UI-UX-Sample-Project/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ayorinde-ayodeji/
