@@ -214,3 +214,46 @@ Please conduct some research on other forum, our aim is to be better than them.
 
 ### Additional Information
 You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier), You can also tag Rivasult & Nairaland on social media.
+
+## Advance Project
+### Client Brief: #1 Fintech App
+Client Name: Kuda Bank
+
+Tyography: Use existing Fonts
+
+Color: Use existing color
+
+#### Timeline
+5 Weeks
+
+#### Objectives
+A Unique Design for the Blog that can;
+* Most Read This week on Homepage
+* Latest Articles on Homepage
+* A Sidebar either Left or Right
+* Newsletter subscription enabled
+* Quick Navigations to Categories
+* Social share button for articles
+* Page to Read article
+* Easy readility function for users
+* Search bar section to search for content
+* Feature to help users with reading problem
+
+#### Platform
+Please design for responsive web. So we require desktop screens as well as mobile screens.
+
+#### Target Audience
+18yrs - 60yrs (Female & Male Interested in Crypto News)
+
+#### References
+Please conduct some research on other cryptos blogs, our aim is to be better than them.
+
+#### Deliverables
+* Research Results
+* Sketch Ideas
+* Information Architecture
+* User Flow
+* Visual Mockup of the Blog
+
+### Additional Information
+You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
