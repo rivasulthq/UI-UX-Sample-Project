@@ -26,13 +26,13 @@ These simple Design task is just to warm you up ahead of the projects, you can u
 
 ## Beginner's Project
 ### Client Brief: #1 Blog Design
-<b>Client Name:</b> BitNews
-<b>Tyography:</b> Use anyone you like
-<b>Color:</b> Use anyone you like
-
+<b>Client Name:</b> BitNews<br/>
+<b>Tyography:</b> Use anyone you like<br/>
+<b>Color:</b> Use anyone you like<br/>
+<br/><br/>
 <b>Timeline</b>
 2 Weeks
-
+<br/>
 <b>Objectives</b>
 A Unique Design for the Blog that can;
 * Most Read This week on Homepage
