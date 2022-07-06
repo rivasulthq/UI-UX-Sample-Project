@@ -108,7 +108,7 @@ You can upload the Design as a Case Study on Behance [Watch Guide to Create one]
 ### Client Brief: #3 Todo App
 Client Name: Pro Todo
 
-Tyography: Use any Typograpy
+Tyography: Use any Typography
 
 Color: Use any brand color (you can use a color style generator)
 
@@ -147,17 +147,17 @@ Please conduct some research on other cryptos blogs, our aim is to be better tha
 You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
 
 ## Intermediate Project
-### Client Brief: #3 Re-Design our Digital Agency Website
+### Client Brief: #1 Re-Design our Digital Agency Website
 Client Name: Rivasult Creative
 
-Tyography: Use any Typograpy
+Tyography: Use any Typography
 
 Color: Use Brand color code (Export from the existing website)
 
 #### Timeline
 3 Weeks
 
-#### Objectives
+#### Brief
 As a Designer, you are required to help re-design our Digital agency to help our clients and students navigate properly. We want a unique design. We noticed users find it difficult to navigate our website and it has reduced our conversion, we also need a new UX copy to help boost our audience retention on our landing page.
 
 Our Clients will love a more optimized version of our website with straight to the point UX and easy to read Copy.
@@ -180,3 +180,37 @@ Please conduct some research on other Digital Agency, our aim is to be better th
 
 ### Additional Information
 You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier), You can also tag Rivasult on social media.
+
+### Client Brief: #2 Re-Design Our Forum
+Client Name: Nairaland
+
+Tyography: Use any Typography
+
+Color: Use Brand color code (Export from the existing website)
+
+#### Timeline
+3 Weeks
+
+#### Brief
+Hi,I'm the owner of Nairaland and i would love you to help us create a new optimized version of Nairaland current design. Our Users are complaining about us not being consistent with our designs and lacking new technologies.
+
+Please conduct a User survey/interview with our users on the forum to better understand what they want from us and design something that means their needs. We have seen designs from other designers but we want to see something unique from you.
+
+#### Platform
+Responsive Design for both Mobile and Web
+
+#### Target Audience
+13yrs - 50yrs (Female & Male)
+
+#### References
+Please conduct some research on other forum, our aim is to be better than them.
+
+#### Deliverables
+* Research Results
+* Sketch Ideas
+* Information Architecture
+* User Flow
+* Visual Mockup of the new Design
+
+### Additional Information
+You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier), You can also tag Rivasult & Nairaland on social media.
