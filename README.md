@@ -271,7 +271,9 @@ Cross.learn is an e-learning platform where users can learn various courses both
 
 We want users to be able to create account and sign in to view courses they signed up and also a disccusion board for all users who signed up for a particular course, we also want users to be able to get certificate after completion of the course.
 
-We also have a feature were only staffs of top companies can become instructor on the platform, 
+We also have a feature were only staffs of top companies can become instructor on the platform, this will help us deliver quality courses to users. We also want users to have access to take part in a 4 weeks internship after completing the course.
+
+Our Mobile app should standout from other existing app as we have unique features, you can also include other neccessary features e-learning platforms need to have.
 
 #### Platform
 Mobile App only
