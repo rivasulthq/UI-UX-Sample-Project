@@ -25,7 +25,7 @@ These simple Design task is just to warm you up ahead of the projects, you can u
 * Re-Design a NaijaTechGuide Landing page
 
 ## Beginner's Project
-### Client Brief: #1 Blog Design
+### Client Brief: #1 Crypto Blog Design
 Client Name: BitNews
 
 Tyography: Use anyone you like
@@ -52,7 +52,7 @@ A Unique Design for the Blog that can;
 Please design for responsive web. So we require desktop screens as well as mobile screens.
 
 #### Target Audience
-18yrs - 60yrs (Female & Males Interested in Crypto News)
+18yrs - 60yrs (Female & Male Interested in Crypto News)
 
 #### References
 Please conduct some research on other cryptos blogs, our aim is to be better than them.
@@ -67,4 +67,82 @@ Please conduct some research on other cryptos blogs, our aim is to be better tha
 ### Additional Information
 You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
 
+### Client Brief: #2 Personal Portfolio Website
+Client Name: Geek Deelino
+
+Tyography: Poppins or Monsterrat
+
+Color: Blue (any color code around blue)
+
+#### Timeline
+1 Weeks
+
+#### Objectives
+A Unique Design for a portfolio Website that can;
+* I want client to see information about me
+* I want client to see my recent works
+* I want client to see my skill set
+* I want client to contact me easily
+* I want clients to get a free project consultation
+
+#### Platform
+Please design for responsive web. So we require desktop screens as well as mobile screens.
+
+#### Target Audience
+25yrs - 60yrs (Female & Male)
+
+#### References
+Please conduct some research on other Personal portfolio website, our aim is to be better than them.
+
+#### Deliverables
+* Research Results
+* Sketch of Blog Ideas
+* Information Architecture
+* User Flow
+* Visual Mockup of the Portfolio
+
+### Additional Information
+You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
+
+
+### Client Brief: #3 Todo App
+Client Name: Pro Todo
+
+Tyography: Use any Typograpy
+
+Color: Use any brand color (you can use a color style generator)
+
+#### Timeline
+2 Weeks
+
+#### Objectives
+A Unique Design for a Todo App that can;
+* Todo should have premium and free feature
+* Todo use allow users sign/register to help them save files online (this will help users when they move to a new device)
+* Users can create 5 Todo Category for Free
+* Users can create Unlimited category in Premium
+* Users can invite others to collaborate in premium only
+* Users can share todo public link with team members
+* Users can create a company Todo page (PREMIUM)
+
+The category section is used to create different todo's for work, home and others.
+
+#### Platform
+Mobile App only
+
+#### Target Audience
+15yrs - 50yrs (Female & Male)
+
+#### References
+Please conduct some research on other cryptos blogs, our aim is to be better than them.
+
+#### Deliverables
+* Research Results
+* Sketch of Blog Ideas
+* Information Architecture
+* User Flow
+* Visual Mockup of the Todo App
+
+### Additional Information
+You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
 
