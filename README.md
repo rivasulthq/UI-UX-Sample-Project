@@ -27,7 +27,9 @@ These simple Design task is just to warm you up ahead of the projects, you can u
 ## Beginner's Project
 ### Client Brief: #1 Blog Design
 Client Name: BitNews
+
 Tyography: Use anyone you like
+
 Color: Use anyone you like
 
 #### Timeline
@@ -45,6 +47,24 @@ A Unique Design for the Blog that can;
 * Easy readility function for users
 * Search bar section to search for content
 * Feature to help users with reading problem
+
 #### Platform
 Please design for responsive web. So we require desktop screens as well as mobile screens.
+
+#### Target Audience
+18yrs - 60yrs (Female & Males Interested in Crypto News)
+
+#### References
+Please conduct some research on other cryptos blogs, our aim is to be better than them.
+
+#### Deliverables
+* Research Results
+* Sketch of Blog Ideas
+* Information Architecture
+* User Flow
+* Visual Mockup of the Blog
+
+### Additional Information
+You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
+
 
