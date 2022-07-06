@@ -301,3 +301,7 @@ Please conduct some research on other fintech apps, our aim is to be better than
 
 ### Additional Information
 You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
+
+
+## Contribution
+You are welcome to contribute to the sample projects
