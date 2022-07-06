@@ -255,3 +255,42 @@ Please conduct some research on other fintech apps, our aim is to be better than
 
 ### Additional Information
 You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
+
+### Client Brief: #2 E-Learning Platform
+Client Name: Cross.learn
+
+Tyography: Use any font
+
+Color: Use any color
+
+#### Timeline
+6 Weeks
+
+#### Brief
+Cross.learn is an e-learning platform where users can learn various courses both free and paid, Cross.learn is recognized by Google, Microsoft, Apple and other top companies and we want to show that on our website.
+
+We want users to be able to create account and sign in to view courses they signed up and also a disccusion board for all users who signed up for a particular course, we also want users to be able to get certificate after completion of the course.
+
+We also have a feature were only staffs of top companies can become instructor on the platform, 
+
+#### Platform
+Mobile App only
+
+#### Target Audience
+18yrs - 60yrs (Female & Male)
+
+#### References
+Please conduct some research on other fintech apps, our aim is to be better than them.
+
+#### Deliverables
+* Research Results
+* Sketch Ideas
+* Information Architecture
+* User Flow
+* Low-fedility wireframe
+* Visual Mockup of the New Design
+* Prototype
+* Design Handoff
+
+### Additional Information
+You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
