@@ -59,7 +59,7 @@ Please conduct some research on other cryptos blogs, our aim is to be better tha
 
 #### Deliverables
 * Research Results
-* Sketch of Blog Ideas
+* Sketch Ideas
 * Information Architecture
 * User Flow
 * Visual Mockup of the Blog
@@ -96,7 +96,7 @@ Please conduct some research on other Personal portfolio website, our aim is to 
 
 #### Deliverables
 * Research Results
-* Sketch of Blog Ideas
+* Sketch Ideas
 * Information Architecture
 * User Flow
 * Visual Mockup of the Portfolio
@@ -138,7 +138,7 @@ Please conduct some research on other cryptos blogs, our aim is to be better tha
 
 #### Deliverables
 * Research Results
-* Sketch of Blog Ideas
+* Sketch Ideas
 * Information Architecture
 * User Flow
 * Visual Mockup of the Todo App
@@ -158,7 +158,7 @@ Color: Use Brand color code (Export from the existing website)
 3 Weeks
 
 #### Objectives
-As a Designer, you are required to help use re-design our Digital agency to help our clients and students navigate properly. We want a unique design that will different from the current design. We noticed users find it difficult to navigate our website and it has reduced our conversion, we also need a new UX copy to help boost our audience retention on our landing page.
+As a Designer, you are required to help re-design our Digital agency to help our clients and students navigate properly. We want a unique design. We noticed users find it difficult to navigate our website and it has reduced our conversion, we also need a new UX copy to help boost our audience retention on our landing page.
 
 Our Clients will love a more optimized version of our website with straight to the point UX and easy to read Copy.
 
@@ -173,7 +173,7 @@ Please conduct some research on other Digital Agency, our aim is to be better th
 
 #### Deliverables
 * Research Results
-* Sketch of Blog Ideas
+* Sketch Ideas
 * Information Architecture
 * User Flow
 * Visual Mockup of the new Design
