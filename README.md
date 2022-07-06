@@ -22,7 +22,9 @@ These simple Design task is just to warm you up ahead of the projects, you can u
 * Design a Contact Us Page
 * Design a High Fedility wireframe for a Shopping app
 * Design an eCommerce checkout page
-* Re-Design a NaijaTechGuide Landing page
+* Design a Tech Blog Landing page
+* Design Email Newsletter template
+* Design a Desktop Dashboard
 
 ## Table of Conents
 * [Beginner's Project](#beginners-project)
