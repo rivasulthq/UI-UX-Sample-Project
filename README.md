@@ -211,12 +211,13 @@ Please conduct some research on other forum, our aim is to be better than them.
 * Information Architecture
 * User Flow
 * Visual Mockup of the new Design
+* Prototype
 
 ### Additional Information
 You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier), You can also tag Rivasult & Nairaland on social media.
 
 ## Advance Project
-### Client Brief: #1 Fintech App
+### Client Brief: #1 Fintech App Re-Design
 Client Name: Kuda Bank
 
 Tyography: Use existing Fonts
@@ -226,34 +227,31 @@ Color: Use existing color
 #### Timeline
 5 Weeks
 
-#### Objectives
-A Unique Design for the Blog that can;
-* Most Read This week on Homepage
-* Latest Articles on Homepage
-* A Sidebar either Left or Right
-* Newsletter subscription enabled
-* Quick Navigations to Categories
-* Social share button for articles
-* Page to Read article
-* Easy readility function for users
-* Search bar section to search for content
-* Feature to help users with reading problem
+#### Brief
+We are the popular Kuda Bank, a Fintech company in Africa that has taken over the unbanked space and we are growing everyday. We need you as product designer to give our app a new look while maintaining our features, we also want our app to be unique, beautiful and naviagate-able.
+
+Please you can also change our UX Copy to help improve our conversion. Please also conduct a user research, we would love to hear what our users want us to improve on our mobile app.
+
+We noticed our users find it difficult when it comes to budgeting, we want a child of 18yrs to be able to understand our budgeting feature properly. Play around but give us a look.
 
 #### Platform
-Please design for responsive web. So we require desktop screens as well as mobile screens.
+Mobile App only
 
 #### Target Audience
-18yrs - 60yrs (Female & Male Interested in Crypto News)
+18yrs - 60yrs (Female & Male)
 
 #### References
-Please conduct some research on other cryptos blogs, our aim is to be better than them.
+Please conduct some research on other fintech apps, our aim is to be better than them.
 
 #### Deliverables
 * Research Results
 * Sketch Ideas
 * Information Architecture
 * User Flow
-* Visual Mockup of the Blog
+* Low-fedility wireframe
+* Visual Mockup of the New Design
+* Prototype
+* Design Handoff
 
 ### Additional Information
 You can upload the Design as a Case Study on Behance [Watch Guide to Create one](https://www.youtube.com/watch?v=DBWYUlbQ6GU) and share link with everyone in the Design group (Link mentioned earlier)
