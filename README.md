@@ -9,6 +9,8 @@ All Projects mentioned below comes with important information to help you design
 
 These simple Design task is just to warm you up ahead of the projects, you can upload your designs to Dribbble and Behance.
 
+You can use the hashtag #rivasult and also tag us on social media @rivasulthq
+
 ### Simple UX Design Task
 * Conduct a User Survey
 * Create a Simple User Persona
