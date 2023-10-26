@@ -39,7 +39,7 @@ Client Name: BitNews
 
 Tyography: Use anyone you like
 
-Color: Use anyone you like
+Color: Primary color: #D55D2A | Secondary Color: #DD7E55
 
 #### Timeline
 2 Weeks
